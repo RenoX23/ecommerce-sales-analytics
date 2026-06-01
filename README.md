@@ -1,4 +1,4 @@
-Create `README.md` in root:
+
 
 ```markdown
 # 🛒 Brazilian E-commerce Sales Intelligence Dashboard
@@ -122,5 +122,3 @@ streamlit run app.py
 **Renold Stephen** — M.Tech CS, Christ University Bangalore
 [GitHub](https://github.com/RenoX23) • [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 ```
-
-
