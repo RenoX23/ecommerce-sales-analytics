@@ -119,5 +119,5 @@ streamlit run app.py
 ## 📬 Connect
 
 **Renold Stephen** — M.Tech CS, Christ University Bangalore
-[GitHub](https://github.com/RenoX23) • [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/renoldstephen/)
+[GitHub](https://github.com/RenoX23) • [LinkedIn](https://www.linkedin.com/in/renoldstephen/)
 ```
