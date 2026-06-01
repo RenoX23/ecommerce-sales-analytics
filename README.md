@@ -1,6 +1,5 @@
 
 
-```markdown
 # 🛒 Brazilian E-commerce Sales Intelligence Dashboard
 
 > End-to-end sales analytics on 100,000+ real orders using Python, SQL, and Streamlit.
